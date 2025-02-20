@@ -33,6 +33,7 @@
   <a href="https://reactjs.org/" title="React"><img src="https://skillicons.dev/icons?i=react"></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blainblain&show_icons=true&theme=tokyonight&locale=en" alt="blainblain" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blainblain&theme=dark" alt="blainblain" /></p>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blainblain&show_icons=true&theme=tokyonight&locale=en" alt=""/></a>
+<a><img height=200 align="center" src="https://readme-stats-liard-nu.vercel.app/api/top-langs?username=blainblain&layout=compact&langs_count=8&card_width=320&theme=dark" alt=""/></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blainblain&theme=dark" alt=""/></p>
 
