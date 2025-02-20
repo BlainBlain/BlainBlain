@@ -35,6 +35,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BlainBlain&show_icons=true&theme=tokyonight" alt="" height="180">
-  <img src="https://readme-stats-liard-nu.vercel.app/api/top-langs?username=BlainBlain&layout=compact&langs_count=8&card_width=320&size_weight=0.5&count_weight=0.5&theme=tokyonight" alt="" height="180">
+  <img src="https://readme-stats-liard-nu.vercel.app/api/top-langs?username=BlainBlain&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact&card_width=320&theme=tokyonight" alt="" height="180">
 </div>
 
